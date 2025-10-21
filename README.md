@@ -1,3 +1,0 @@
-# epam_traning_git_demo
-
-# WHAT???
